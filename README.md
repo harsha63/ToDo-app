@@ -25,7 +25,8 @@ mvn clean install
 mvn exec:java -Dexec.mainClass="com.example.todo"
 mvn test
 ```
-<pre> ## 📂 Project Structure ``` ToDo-app/
+## 📂 Project Structure 
+``` ToDo-app/
 ├── src/
 │   ├── main/
 │   │   └── java/
@@ -39,4 +40,4 @@ mvn test
 │               └── example/
 │                   └── AppTest.java
 ├── pom.xml
-└── README.md ``` </pre>
+└── README.md ``` 
