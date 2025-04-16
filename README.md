@@ -26,7 +26,8 @@ mvn exec:java -Dexec.mainClass="com.example.todo"
 mvn test
 ```
 ## 📂 Project Structure 
-``` ToDo-app/
+```
+ToDo-app/
 ├── src/
 │   ├── main/
 │   │   └── java/
