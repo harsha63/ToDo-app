@@ -25,3 +25,18 @@ mvn clean install
 mvn exec:java -Dexec.mainClass="com.example.todo"
 mvn test
 ```
+ToDo-app/
+├── src/
+│   ├── main/
+│   │   └── java/
+│   │       └── com/
+│   │           └── example/
+│   │               └── App.java
+│   │               └── TodoApp.java
+│   └── test/
+│       └── java/
+│           └── com/
+│               └── example/
+│                   └── AppTest.java
+├── pom.xml
+└── README.md
