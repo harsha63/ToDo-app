@@ -1,5 +1,27 @@
-# ToDo-app
+# 🎯 To Do App
 
-1. git clone this repository
-2. <pre> ### 🚀 Run the Application Make sure you have [Java](https://adoptopenjdk.net/) and [Maven](https://maven.apache.org/install.html) installed. 
-  ```bash # Build the project mvn clean install # Run the application mvn exec:java -Dexec.mainClass="com.example.todo" ``` </pre>
+A brief description of what your project does and who it's for.
+
+--- Simple application to create, delete and view tasks.
+
+## 📦 Tech Stack
+
+- Java 17 (or your version)
+- Maven
+- JUnit
+
+---
+
+## 🚀 Getting Started
+
+### 📁 Clone the Repository
+
+```bash
+git clone https://github.com/harsha63/ToDo-app.git
+cd ToDo-app
+java -version
+mvn -version
+mvn clean install
+mvn exec:java -Dexec.mainClass="com.example.todo"
+mvn test
+```
